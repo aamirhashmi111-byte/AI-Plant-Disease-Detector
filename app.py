@@ -17,7 +17,7 @@ if uploaded_file is not None:
     image = Image.open(uploaded_file).convert("RGB")
 
     # Resize original image for display
-    display_image = image.resize((250, 250))
+    display_image = image.resize((300 ,300))
 
     # Prediction
     result = predict(uploaded_file)
