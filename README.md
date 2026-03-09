@@ -3,7 +3,7 @@
 An AI-powered web application that detects plant diseases from leaf images using Deep Learning.
 
 ## 🚀 Live Demo
-https://ai-plant-disease-detector.streamlit.app
+https://ai-plant-disease-detector-9lpwojxjdsfzavnvqpedd8.streamlit.app/
 
 ## 📸 Features
 - Upload a plant leaf image
